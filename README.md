@@ -2,5 +2,5 @@
 
 ### Hi , researcher
 - :orange_book: Focusing on IOT、Python、Androud and Web JAVA etc.。
--  [![Open In Welcome]](https://fangchubbyluck9.github.io)     
+- :bookmark: My Index on [![Open In Welcome](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://fangchubbyluck9.github.io)     
 
